@@ -4,6 +4,10 @@ In mathematics, the Euclidean algorithm is an efficient method for computing the
 It is an example of an algorithm, a step-by-step procedure for performing a calculation according to well-defined rules, and is one of the oldest algorithms in common use.
 The Euclidean algorithm is based on the principle that the greatest common divisor of two numbers does not change if the larger number is replaced by its difference with the smaller number.
 
+## Divide-and-conquer
+
+In computer science, divide and conquer is an algorithm design paradigm. A divide-and-conquer algorithm recursively breaks down a problem into two or more sub-problems of the same or related type, until these become simple enough to be solved directly. The solutions to the sub-problems are then combined to give a solution to the original problem. 
+
 ### Greatest common divisor
 
 The Euclidean algorithm calculates the greatest common divisor (GCD) of two natural numbers a and b. 
@@ -49,4 +53,5 @@ Since the last remainder is zero, the algorithm ends with 21 as the greatest com
 
 #### Sources:
 1) Wikipedia - https://en.wikipedia.org/wiki/Euclidean_algorithm
-2) Khanacademy - https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-euclidean-algorithm
+2) Wikipedia - https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm
+3) Khanacademy - https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-euclidean-algorithm
